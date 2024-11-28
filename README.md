@@ -1,23 +1,9 @@
-## Simple Voice Chat - A working voice chat in Minecraft!
-
-### Features
-    Push to talk
-    Voice activation
-    Proximity voice chat
-    Password protected group chats
-    Opus codec
-    RNNoise recurrent neural network noise suppression
-    OpenAL audio
-    Cross compatibility between Fabric, NeoForge, Forge, Quilt, Bukkit, Spigot and Paper
-    Support for Velocity, BungeeCord and Waterfall
-    Compatibility with ModMenu (Use ClothConfig for a better configuration UI)
-    Configurable push to talk key
-    Microphone test playback
-    Configurable voice distance
-    Whispering
-    Individual player volume adjustment
-    Microphone amplification
-    3D sound
-    AES encryption
-    Audio recording with separate audio tracks
-    A powerful API
+# New Features
+- Added equipment to /inventory
+- Added Agarimoo to fishing tracker
+ -Added Spirit Mask timer (@Jason54jg)
+- Added Bouquet of Lies and Fire Freeze to stop placing flowers (@RayDeeUx)
+- Added enchanted blaze powder to Blaze tracker
+- Added highlight plots with pest in /desk
+- Added new dungeon drops to trackers
+- Added taming 60 support
